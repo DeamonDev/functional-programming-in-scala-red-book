@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/piotrrudnicki/Documents/MyProgrammingProjects/Scala/functional-programming-in-scala-red-book/target/scala-2.13/functional-programming-in-scala-red-book_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functor[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/piotrrudnicki/Documents/MyProgrammingProjects/Scala/functional-programming-in-scala-red-book/target/scala-2.13/classes/functor[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functor/Functor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/piotrrudnicki/Documents/MyProgrammingProjects/Scala/functional-programming-in-scala-red-book/target/scala-2.13/classes/functor/Functor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/piotrrudnicki/Documents/MyProgrammingProjects/Scala/functional-programming-in-scala-red-book/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	applicative[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/piotrrudnicki/Documents/MyProgrammingProjects/Scala/functional-programming-in-scala-red-book/target/scala-2.13/classes/applicative[0m
+[0m[[0m[0mdebug[0m] [0m[0m	applicative/Applicative$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/piotrrudnicki/Documents/MyProgrammingProjects/Scala/functional-programming-in-scala-red-book/target/scala-2.13/classes/applicative/Applicative$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	applicative/Applicative$Applicative.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/piotrrudnicki/Documents/MyProgrammingProjects/Scala/functional-programming-in-scala-red-book/target/scala-2.13/classes/applicative/Applicative$Applicative.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	applicative/Applicative$ApplicativeOriginal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/piotrrudnicki/Documents/MyProgrammingProjects/Scala/functional-programming-in-scala-red-book/target/scala-2.13/classes/applicative/Applicative$ApplicativeOriginal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	applicative/Applicative.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/piotrrudnicki/Documents/MyProgrammingProjects/Scala/functional-programming-in-scala-red-book/target/scala-2.13/classes/applicative/Applicative.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/piotrrudnicki/Documents/MyProgrammingProjects/Scala/functional-programming-in-scala-red-book/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/piotrrudnicki/Documents/MyProgrammingProjects/Scala/functional-programming-in-scala-red-book/target/scala-2.13/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
