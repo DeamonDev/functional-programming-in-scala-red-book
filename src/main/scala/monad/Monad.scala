@@ -1,9 +1,10 @@
 package monad
 
 import applicative.Applicative.Applicative
+import functor.Functor
 
 trait Monad[F[_]] extends Applicative[F] {
-  def flatMap[A,B](fa: F[A])(f: A => F[B]): F[B] = join(map(fa))(f)
+  def flatMap[A,B](fa: F[A])(f: A => F[B]): F[B] = join(map(fa)(f))
 
   def join[A](ffa: F[F[A]]): F[A] = flatMap(ffa)(fa => fa)
 
